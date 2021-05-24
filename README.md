@@ -6,6 +6,8 @@ Neural networks for understanding people and humanity
 
 Discourse analysis investigates written and spoken language and aims to understand how language is used in real everyday situations. By using neural networks, discourses could be analysed and gain understanding of cultural conventions, values, beliefs and assumptions. The analysis (or application) could reveal cultural contradictions which are hiding beneath the surface.
 
+Building AI course project
+
 ## Background
 
 Sometimes there are contradiction between what is being said and what is being done: for example opinion polling in parliamentary election or how we are talking about the equality and what are the real actions in every day life. By examining the written and spoken language, the meaning produced by communication, can be revealed.
@@ -18,7 +20,7 @@ Because the world is full of spoken and written data, a neural network model cou
 
 Data is spoken and written language. Data will be processed using neural networks.
 
-# Building-AI
+## Building-AI
 Building AI course project
 
 <!-- This is the markdown template for the final project of the Building AI course, 
